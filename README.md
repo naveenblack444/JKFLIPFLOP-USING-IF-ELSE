@@ -55,7 +55,7 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 
  
 ```
-module experiment7(J,K,c1k,q,qbar);
+module expt7(J,K,c1k,q,qbar);
 input J,K,c1k;
 output reg q;
 output reg qbar;
